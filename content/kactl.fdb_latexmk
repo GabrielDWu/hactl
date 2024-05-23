@@ -1,0 +1,16 @@
+# Fdb version 4
+["pdflatex"] 1716423837 "/Users/gwu/Library/CloudStorage/OneDrive-Personal/Documents/GitHub/hactl/content/kactl.tex" "kactl.pdf" "kactl" 1716423837 2
+  "/Users/gwu/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1687573841 20041547 61bec2ce7e4e406b25bef78938bbd86a ""
+  "/Users/gwu/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr9.tfm" 1687573756 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
+  "/Users/gwu/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/exscale.sty" 1687573760 2581 d052da614602571658018ab0231a85fb ""
+  "/Users/gwu/Library/Application Support/MiKTeX/texmfs/install/tex/latex/extsizes/extreport.cls" 1716423191 23786 cbd79291aa0922c48a73753b97cabb5f ""
+  "/Users/gwu/Library/Application Support/MiKTeX/texmfs/install/tex/latex/extsizes/size9.clo" 1716423191 6172 b9daf86befd6903b2699dddbd6fb97c1 ""
+  "/Users/gwu/Library/CloudStorage/OneDrive-Personal/Documents/GitHub/hactl/content/kactl.tex" 1716423835 987 e38b67b0da436002262ebb9018e60d45 ""
+  "kactl.aux" 0 -1 0 "pdflatex"
+  "kactl.tex" 1716423835 987 e38b67b0da436002262ebb9018e60d45 ""
+  "kactlpkg.sty" 0 -1 0 ""
+  (generated)
+  "kactl.aux"
+  "kactl.log"
+  "kactl.pdf"
+  (rewritten before read)
